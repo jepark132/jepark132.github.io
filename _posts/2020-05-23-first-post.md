@@ -50,8 +50,17 @@ image: "/images/pic02.jpg"
 
 ## 프로젝트에 기여할 수 있는 내용
 
-기존에 팀원간 서로 번역하기로 나눈 파트(Fasttext for text classification, Sentiment classification LSTM, Sequence to sequence – training, Sequence to sequence – prediction) 를 번역하고, 번역을 모두 진행한 후에는 검토 작업을 진행할 것이다.
-github차원에서는 readme 페이지를 제작할 것이며, 전체적인 정적페이지 디자인을 하고 지속적으로 확인하면서 수정을 거듭할 예정이다. 
+- 번역 작업<br>
+Fasttext for text classification<br>
+Sentiment classification LSTM<br>
+Sequence to sequence – training<br>
+Sequence to sequence – prediction<br>
+- 번역 검토 작업 : 팀원당 맡은 문서의 번역작업이 끝난 후에는 팀원 간에 공유하여 자체적으로 검토하는 과정에 참여할 예정입니다.<br>
+
+- github차원 : readme 페이지를 제작할 것입니다.
+
+- 정적페이지 차원 : 전체적인 디자인을 하고 지속적으로 확인하면서 수정을 거듭할 예정이다. 
+
 팀원으로서 맡은 역할을 성실히 수행하는 것이 개인이 가장 팀 프로젝트를 수행하는데 있어서 중요하다고 생각한다.
 
 
