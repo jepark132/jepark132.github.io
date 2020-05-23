@@ -42,7 +42,7 @@ image: "/images/pic02.jpg"
 >   : 1D CNN for text classification, sentiment classification, CNN-LSTM, Stateful LSTM, LSTM for text generation, Custom layer – antirectifier<br>
 > 정적 페이지 관리 및 github project관리
 
-**팀원: 박정은**
+**팀원: 박정은(본인)**
 
 > 문서 번역<br>
 >   : Fasttext for text classification, Sentiment classification LSTM, Sequence to sequence – training, Sequence to sequence – prediction<br>
