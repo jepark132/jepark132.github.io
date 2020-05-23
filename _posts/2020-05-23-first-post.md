@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "About Team8 Project"
+date:   2020-05-23
+excerpt: "프로젝트 진행사항, 개인별 팀 프로젝트 기여 방안, 프로젝트 개선 방향"
 image: "/images/pic02.jpg"
 ---
 
-## How to Use This Theme
+## Team Progression 팀 진행상황
 Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
 
 Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
