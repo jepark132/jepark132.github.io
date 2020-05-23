@@ -11,10 +11,7 @@ remote_theme : jekyllup/jekyll-theme-massively
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-##twitter:            default
-##facebook:           default
-instagram:          default
+instagram:          jjeun_pk
 github:             jepark132
 
 # personal
