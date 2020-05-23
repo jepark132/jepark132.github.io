@@ -22,32 +22,6 @@ image: "/images/pic02.jpg"
 ### 3. 기본 연락 수단 
  카카오톡(비공식), 깃헙(공식)
 
-### 4. 개인 역할 분담
-**팀장: 김태규**  
-
-> 문서 번역<br>
->   : Baby RNN, Baby MemNN, CIFAR-10 CNN, CIFAR-10 ResNet, Confolution filter visualization<br>
-> 정적 페이지 총괄 및 github issue관리
- 
-  
-**팀원: 이동준**  
-  
-> 문서 번역<br>
->   : Deep Dream, Image OCR, Auxiliary Classifier GAN, Convolutional LSTM, Bidrectional LSTM<br>
-> 정적 페이지 관리 및 github wiki관리 
-  
-**팀원: 김유현**  
-
-> 문서 번역<br>
->   : 1D CNN for text classification, sentiment classification, CNN-LSTM, Stateful LSTM, LSTM for text generation, Custom layer – antirectifier<br>
-> 정적 페이지 관리 및 github project관리
-
-**팀원: 박정은(본인)**
-
-> 문서 번역<br>
->   : Fasttext for text classification, Sentiment classification LSTM, Sequence to sequence – training, Sequence to sequence – prediction<br>
-> 정적 페이지 관리 및 gtihub readme 제작
-
 ## 프로젝트에 기여할 수 있는 내용
 
 - 번역 작업<br>
